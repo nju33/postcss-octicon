@@ -1,0 +1,18 @@
+#content:before {
+  content: octicon(bookmark, orange);
+  display: block;
+  width: 10em;
+  height: 10em;
+}
+
+#background-image {
+  background-image: octicon(alert, red);
+  width: 10em;
+  height: 10em;
+}
+
+#background {
+  background: no-repeat octicon(alert, green) 10px 10px;
+  width: 10em;
+  height: 10em;
+}
