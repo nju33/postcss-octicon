@@ -1,7 +1,7 @@
 {
   "name": "postcss-octicon",
   "description": "Postcss plugin for octicon",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": "nju33 <nju33.ki@gmail.com>",
   "ava": {
     "files": "test/*.js",
