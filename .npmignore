@@ -1,0 +1,8 @@
+*.json
+*.md
+*.lock
+/.babelrc
+/.gitignore
+/lib/
+/test/
+/gulpfile.babel.js
